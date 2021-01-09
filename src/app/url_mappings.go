@@ -1,5 +1,9 @@
 package app
 
-func mapURLs() {
+import (
+	"../controllers"
+)
 
+func mapURLs() {
+	router.GET("/ping", controllers.Ping)
 }

@@ -1,2 +1,3 @@
-# bookstore-users-api
+# Bookstore Users API
+
 Bookstore Users API Service
